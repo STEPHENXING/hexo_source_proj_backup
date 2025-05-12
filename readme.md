@@ -1,4 +1,9 @@
+==============
+===============
+npm install hexo
 
+=====================
+====================
 
 node_modules\.bin\hexo  g 
 
@@ -18,3 +23,16 @@ hexo new post "约旦河"
 
 
 git status可以检查我的项目是不是删除了与其他项目的联系
+
+==============
+===============
+npm install hexo
+
+
+=================
+怎样图片居中
+<div style="text-align: center;">
+    <img src="slan-before-foundation/image-20250512140610518.png" alt="image-20250512140610518" style="zoom:50%;" />
+</div>
+
+
