@@ -65,6 +65,23 @@ index_generator:
   per_page: 10
   order_by: -date
 
+
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: false
+    langPrefix: 'language-'
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+    highlight:
+      enable: true
+      line_number: true
+      auto_detect: false
+      tab_replace: '    '
+
+
 # Category & Tag
 default_category: uncategorized
 category_map:
