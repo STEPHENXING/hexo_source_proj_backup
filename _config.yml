@@ -87,6 +87,11 @@ default_category: uncategorized
 category_map:
 tag_map:
 
+category_generator:
+  per_page: 6
+  enable_index_page: true
+
+
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
@@ -123,6 +128,9 @@ deploy:
   repository: https://github.com/STEPHENXING/stephenxing.github.io.git
   branch: main
 
+
+#visitor_counter:
+#  enable: true
 
 comment:
   type: valine
