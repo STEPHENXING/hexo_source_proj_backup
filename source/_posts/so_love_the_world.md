@@ -8,7 +8,7 @@ tags:
 
 
 
-{% aplayer  "如此的爱"  "ncc"  "https://r2.xiaolianggg.sbs/audio/so_love_the_world.MP3"  "https://r2.xiaolianggg.sbs/2025/05/b61d6e611bdeeb393c6311068c090982.png" %}
+{% aplayer  "如此的爱"  "ncc"  "https://r2.xiaolianggg.sbs/audio/so_love_the_world.MP3"  "https://r2.xiaolianggg.sbs/2025/05/202e003836b769c2ebc32b930c00fdcf.png" %}
 
 
 

@@ -5,7 +5,7 @@ categories: 华文堂音乐
 tags:
 ---
 
-{% aplayer  "主赐我平安"  "ncc"  "https://r2.xiaolianggg.sbs/audio/lord_give_peace.MP3"  "https://r2.xiaolianggg.sbs/2025/05/b61d6e611bdeeb393c6311068c090982.png" %}
+{% aplayer  "主赐我平安"  "ncc"  "https://r2.xiaolianggg.sbs/audio/lord_give_peace.MP3"  "https://r2.xiaolianggg.sbs/2025/05/202e003836b769c2ebc32b930c00fdcf.png" %}
 
 ## 歌词
 
