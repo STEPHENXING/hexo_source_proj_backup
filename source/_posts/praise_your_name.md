@@ -5,7 +5,7 @@ categories: 华文堂音乐
 tags:
 ---
 
-{% aplayer  "我要歌颂你圣名"  "ncc"  "https://r2.xiaolianggg.sbs/audio/praise_your_holy_name.MP3"  "https://r2.xiaolianggg.sbs/2025/05/202e003836b769c2ebc32b930c00fdcf.png" %}
+{% aplayer  "我要歌颂你圣名"  "ncc"  "https://r2.xiaolianggg.sbs/audio/praise_your_holy_name.MP3"  "https://r2.xiaolianggg.sbs/2025/05/72025530bd17288f8be1d6a76b073e4f.png" %}
 
 
 
