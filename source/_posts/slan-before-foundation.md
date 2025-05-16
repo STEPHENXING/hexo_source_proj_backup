@@ -11,15 +11,14 @@ tags:
 
 我们可以想象吗？ 我现在要造一个机器人，但是我知道这个机器人将来会拒绝我，插荆棘在我的头上，吐唾沫在我的脸上，砸钉子穿过我的手。但是我为了能够爱他，跟他分享我的爱，我还是欢欢喜喜的造他。哦，主耶稣的爱是何等长阔高深。
 
-<div style="text-align: center;">
-    <img src="slan-before-foundation/image-20250512140610518.png" alt="image-20250512140610518" style="zoom:50%;" />
-</div>
+<img src="https://r2.xiaolianggg.sbs/2025/05/58ae41a64f4b49943eacb2b13831c439.png" alt="image-20250516141538578" style="zoom:67%;" />
 
 
 
-<div style="text-align: center;">
-    <img src="slan-before-foundation/image-20250512140620438.png" alt="image-20250512140620438" style="zoom:50%;" />
-</div>
+<img src="https://r2.xiaolianggg.sbs/2025/05/bacaee35fb9f6821fc76e4a5589e6cd5.png" alt="image-20250516141555105" style="zoom:67%;" />
+
+
+
 
 
 

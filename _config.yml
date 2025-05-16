@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://stephenxing.github.io
+url: https://blog.xiaolianggg.sbs
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: true
+post_asset_folder: false
 
 relative_link: false
 future: true
@@ -131,6 +131,22 @@ deploy:
 
 #visitor_counter:
 #  enable: true
+
+img_optimization:
+  exclude:
+    - css/
+    - fancybox/
+    - banner.jpg
+  jpg:
+    enabled: true
+    params: -resize 1024x1024 -quality 80 -strip -interlace JPEG -colorspace sRGB
+  png:
+    enabled: true
+    thumb: -resize 800x800> -quality 80 -strip -interlace PNG -colorspace sRGB
+  jpeg:
+    enabled: true
+    params: -resize 1024x1024 -quality 80 -strip -interlace JPEG -colorspace sRGB
+
 
 comment:
   type: valine

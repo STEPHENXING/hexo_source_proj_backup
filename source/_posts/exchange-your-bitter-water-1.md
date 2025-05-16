@@ -17,7 +17,7 @@ categories: 灵修
 
  我们发现，主耶稣打发门徒找食物。他自己单独接待撒玛利亚妇人。
 
-![image-20250513140046083](exchange-your-bitter-water-1/image-20250513140046083.png)
+![image-20250516141722855](https://r2.xiaolianggg.sbs/2025/05/18b9c030da44f98ec7c4581b0a860f72.png)
 
 在独处中，我把我的苦水交给主；主把他的活水赐给我。
 
@@ -47,7 +47,7 @@ categories: 灵修
 
 ## 玛拉变甜
 
-![image-20250513142749842](exchange-your-bitter-water-1/image-20250513142749842.png)
+![image-20250516141658582](https://r2.xiaolianggg.sbs/2025/05/e4bc31f0cbcb252a1f73bb78e5c32a0a.png)
 
 >22 摩西领以色列人从红海后，往旷野的前方去，三天走路，找不着水。 
 >

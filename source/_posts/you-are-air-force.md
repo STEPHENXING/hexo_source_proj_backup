@@ -22,9 +22,9 @@ categories: 灵修
 ## 2.2灵魂体相互作用
 
 灵**高于**魂和体，如图所示：
-<div style="text-align: center;">
-<img src="you-are-air-force/image-20250512192453862.png" alt="image-20250512192453862" style="zoom:80%;" />
-</div>
+
+<img src="https://r2.xiaolianggg.sbs/2025/05/c3ffd31aa486ef9519602d0935cbad69.png" alt="image-20250516145356391" style="zoom: 33%;" />
+
 
 灵处于高位，能够大大的影响魂和体。可以把灵比作军队的司令。我们信徒的灵，就是我们的元帅主基督耶稣的灵，所以是至圣的，是和天父上帝合二为一。哈利路亚！
 
@@ -35,9 +35,8 @@ categories: 灵修
 
 也可以通过下面的平面图来体现三者的关系：
 
-<div style="text-align: center;">
-    <img src="you-are-air-force/image-20250512180658886.png" alt="image-20250512180658886" style="zoom:33%;" />
-</div>
+<img src="https://r2.xiaolianggg.sbs/2025/05/ccd9744ea31ded6c191dea8b9d08b698.png" alt="image-20250516145415061" style="zoom: 50%;" />
+
 
 
 
@@ -47,9 +46,9 @@ categories: 灵修
 2. 不是反应，不是在现象的对立面，**平级的**跟他对着干。而是尽量的不去跟他拉扯，他会控告我：你没有照顾好自己的身体，你太多久坐了。我的态度：我承认，我的肉体就是没有良善，该运动反而不去运动。我对于*自己能照顾好自己*这件事彻底的绝望。那个错待自己身体的老我，已经和我的主一起钉死在十字架上了。
 
 再画一个图表达魂处于承上启下的中转作用：
-<div style="text-align: center;">
-<img src="you-are-air-force/image-20250512192512446.png" alt="image-20250512192512446" style="zoom:80%;" />
-</div>
+
+<img src="https://r2.xiaolianggg.sbs/2025/05/583adbb6e0fbf1a06d920a779b65aedc.png" alt="image-20250516145503626" style="zoom: 33%;" />
+
 
 # 靠什么能重生
 
@@ -59,14 +58,12 @@ categories: 灵修
 2. 我欢迎主赐给我的新生命：**基督复活，是为叫我称义**。没有一点点我自己的功劳，完全是因为我的主替我还清了罪债，祂又复活了，回到了父的右边，在天父的右边代表我。如今我的生命是藏在基督里面的，所以我也在父的右边（靠的是主基督作为中保）。也就是我的重生灵，现在就在天父阿爸的面前，已经成为圣洁，没有瑕疵，无可责备。哈利路亚！
 
 我们发现了，从老思维到新思维的转换必须靠着主耶稣，所以说**他是门**：
-<div style="text-align: center;">
-<img src="you-are-air-force/image-20250512192531262.png" alt="image-20250512192531262" style="zoom:80%;" />
-</div>
+
+<img src="https://r2.xiaolianggg.sbs/2025/05/5b854d62a3c1eac8b9e806cd525d9d36.png" alt="image-20250516145536328" style="zoom: 33%;" />
 
 借用昆明家人们的图，我们也可以看到，两棵树之间必须通过福音（主耶稣的十字架受死、埋葬、复活）才能转过去。祂是 **唯一的道路**，帮我们达到父面前，也就是奇妙光明的新国度。
 
-
-![image-20250512182114755](you-are-air-force/image-20250512182114755.png)
+![image-20250516145617028](https://r2.xiaolianggg.sbs/2025/05/356c373010760fd29e323d60ddf8d7fb.png)
 
 # 怎样应用
 
@@ -76,7 +73,7 @@ categories: 灵修
 
 ## 我有一支空军
 
-![image-20250512183544878](you-are-air-force/image-20250512183544878.png)
+![image-20250516145645961](https://r2.xiaolianggg.sbs/2025/05/fd83847aabc66ba25366e28e5b0acb1a.png)
 
 大家看，左右两军对战，如果我们用血气征战，就浪费了我们主给我们的大大好处，我们有空军呀，我们的灵是凌驾在现象之上的。
 
@@ -89,7 +86,7 @@ categories: 灵修
 
 ## 你敢下来吗
 
-![image-20250512191714661](you-are-air-force/image-20250512191714661.png)
+![image-20250516145708540](https://r2.xiaolianggg.sbs/2025/05/67a3756925acde08bfa0f10ee73a6606.png)
 
 魔鬼就是在下面，用律法**控告和纠缠**。我尽力避免跟他用律法辩驳，而是**向着律法我已经死了**。当我承认，我就是没有良善，我的罪身已经全部钉死在我的主耶稣身上，我就坐在了石头上。难怪经上记着说，**他是我们的磐石**。我单单定睛我的主，我不需要自己努力往上爬。当我定睛祂的时候，他的笑脸接纳外在软弱的我。慢慢的，他的喜乐、平安就充满了我的魂，我的思维就被拉上去了。哈利路亚！
 
@@ -98,34 +95,27 @@ categories: 灵修
 ## 一抓就跑
 
 根本不跟他纠缠，魔鬼一控告，我马上抱我主耶稣的大腿，溜了。不是说：灵巧如蛇吗？哈哈
-<div style="text-align: center;">
-<img src="you-are-air-force/image-20250512183454423.png" alt="image-20250512183454423" style="zoom:80%;" />
-</div>
+
+![image-20250516145729461](https://r2.xiaolianggg.sbs/2025/05/db709c3a081c75ebb033a94dc78b5ad1.png)
+
 
 ## 壳子不是我
 
 我的旧人的行为，已经钉死了，壳子不是我。
-<div style="text-align: center;">
-<img src="you-are-air-force/image-20250512183522572.png" alt="image-20250512183522572" style="zoom:80%;" />
-</div>
+
+![image-20250516145755158](https://r2.xiaolianggg.sbs/2025/05/0cdb48df36a7cb2d3bba7dcc26be69f0.png)
+
 
 
 ## 其他例子
 
 
 
-![image-20250513100555505](you-are-air-force/image-20250513100555505.png)
+![image-20250516145824186](https://r2.xiaolianggg.sbs/2025/05/18bce44de2c1998c517abd9a2e8753f6.png)
 
+![image-20250516145853364](https://r2.xiaolianggg.sbs/2025/05/c28eec6b250cfbdfa4cd31de0802b159.png)
 
+![image-20250516145907883](https://r2.xiaolianggg.sbs/2025/05/fd490dfefdcbaa1ec7e9b5030b0f50e1.png)
 
-
-
-
-![image-20250512194132415](you-are-air-force/image-20250512194132415.png)
-
-![image-20250512185917374](you-are-air-force/image-20250512185917374.png)
-
-![image-20250512190016627](you-are-air-force/image-20250512190016627.png)
-
-![image-20250512190141958](you-are-air-force/image-20250512190141958.png)
+![image-20250516145920353](https://r2.xiaolianggg.sbs/2025/05/2a40fa979f5f9491fa430db243b1febd.png)
 
